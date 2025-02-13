@@ -19,7 +19,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/Radon-Games/Radon-Games.git
+git clone h-ttps://github.com/Radon-Games/Radon-Games.git
 cd Radon-Games
 pnpm install
 pnpm run build
